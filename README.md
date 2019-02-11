@@ -1,5 +1,8 @@
 # CST8284_W19_Assign_1
-CST8284 A SSIGNMENT 01: C OMPANY M ANAGEMENT T OOL P ROTOTYPE
+
+
+CST8284 ASSIGNMENT 01: COMPANY MANAGEMENT TOOL PROTOTYPE
+
 Learning Outcomes: Optimal design strategies, UML diagram interpretation. Arrays, Composition, JUnit, overriden
 methods toString() and equals().
 
@@ -9,8 +12,11 @@ employees, and determine which employee has been employed at the Company for the
 be stored in an Employee array (set maximum size for now to be 10). Every employee will have a name, an employee number, a
 start employment date (day, month, year) and an annual salary.
 
+
+
+
 PROGRAM DESIGN
-![alt text](UML Diagram)
+![alt text](https://github.com/hawk0120/CST8284_W19_Assign_1/blob/master/UML-Assignment-1.jpg)
 
 
 
