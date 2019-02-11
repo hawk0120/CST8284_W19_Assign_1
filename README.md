@@ -24,7 +24,7 @@ PROGRAM DESIGN
 
 TESTING DESIGN
 The scope of testing required will be limited to only those specified in the UML below.
-![alt text](https://github.com/hawk0120/CST8284_W19_Assign_1/blob/master/UML-Assignment-1.jpg)
+![alt text](https://github.com/hawk0120/CST8284_W19_Assign_1/blob/master/UML-TestCompany.png)
 
 
 
