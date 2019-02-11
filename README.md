@@ -24,7 +24,13 @@ PROGRAM DESIGN
 
 TESTING DESIGN
 The scope of testing required will be limited to only those specified in the UML below.
+![alt text](https://github.com/hawk0120/CST8284_W19_Assign_1/blob/master/UML-Assignment-1.jpg)
+
+
+
+
  CompanyConsole contains a main method, which instantiates one Company reference and calls menu().
+
  NOTE 1: Only CompanyConsole interacts with the user; no other classes should use Scanner or println (etc.).
  NOTE 2: Do not use recursion for your method calls – instead use a properly coded repetition structure. You will lose marks if
 recursion is used
